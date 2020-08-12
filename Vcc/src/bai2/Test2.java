@@ -1,3 +1,7 @@
+package bai2;
+
+import bai3.GenData;
+
 import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
