@@ -23,6 +23,21 @@ public class Test1 {
         solve();
     }
 
+    public static void solve() {
+        Set<Integer> results = new HashSet<>();
+        results.addAll(set1);
+        results.addAll(set2);
+        System.out.println("Result1 size : " + results.size());
+        List<Integer> result2 = new ArrayList<>();
+        for (Integer numberSet1 : set1) {
+            if (set2.contains(numberSet1)) {
+                result2.add(numberSet1);
+            }
+        }
+//        result2.forEach(integer -> System.out.println(integer));
+        System.out.println("Result2 size : " + result2.size());
+    }
+
     public static void setUpData() {
         int matchSize = random1.nextInt(20000);
         setUpMatchNumber(matchSize);
@@ -66,20 +81,5 @@ public class Test1 {
                 || set1.contains(randomNumber2) || set2.contains(randomNumber1);
     }
 
-    public static void solve() {
-        Set<Integer> results = new HashSet<>();
-        results.addAll(set1);
-        results.addAll(set2);
-        System.out.println("Result1 size : " + results.size());
-
-        List<Integer> result2 = new ArrayList<>();
-        for (Integer numberSet1 : set1) {
-            if (set2.contains(numberSet1)) {
-                result2.add(numberSet1);
-            }
-        }
-//        result2.forEach(integer -> System.out.println(integer));
-        System.out.println("Result2 size : " + result2.size());
-    }
 
 }
