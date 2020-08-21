@@ -1,0 +1,420 @@
+13-08-2020 11:34:36.671 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:38.001 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:38.118 [Thread-1] Scanner.showInfoLog - LOGGER.info - time: 2 Test1.userId: 11645
+13-08-2020 11:34:39.119 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:40.177 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:41.245 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:42.382 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:43.491 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:44.682 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:45.806 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:46.871 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:47.927 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:48.995 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:50.122 [Thread-0] HttpSender.requestGet - GET Request success
+13-08-2020 11:34:50.125 [Thread-1] Scanner.showDebugLog -  LOGGER.debug - lastTimeChange: 14 Test1.userId: 11603
+13-08-2020 11:34:52.555 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:00.041 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:01.104 [Thread-1] Scanner.showInfoLog - LOGGER.info - time: 2 Test1.userId: 10809
+14-08-2020 11:54:01.365 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:02.409 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:03.771 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:04.896 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:05.961 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:07.041 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:08.119 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:09.176 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:10.244 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:11.308 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:12.415 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:13.112 [Thread-1] Scanner.showDebugLog -  LOGGER.debug - lastTimeChange: 14 Test1.userId: 10804
+14-08-2020 11:54:13.501 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:14.606 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:15.751 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:17.255 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:18.448 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:19.517 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:20.645 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:21.705 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:22.782 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:23.856 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:24.944 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:26.056 [Thread-0] HttpSender.requestGet - GET Request success
+14-08-2020 11:54:27.115 [Thread-1] Scanner.showDebugLog -  LOGGER.debug - lastTimeChange: 14 Test1.userId: 10818
+21-08-2020 11:34:32.989 [Thread-0] HttpSender.run - news.admicro.vn: Temporary failure in name resolution
+21-08-2020 11:34:33.005 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.010 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.014 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.016 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.018 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.021 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.023 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.025 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.026 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.028 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.030 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.032 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.033 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.035 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.037 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.039 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.040 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.041 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.043 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.044 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.046 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.047 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.049 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.050 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.052 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.053 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.054 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.055 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.057 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.058 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.060 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.061 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.063 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.064 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.065 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.067 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.068 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.069 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.071 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.074 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.075 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.076 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.078 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.079 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.080 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.081 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.082 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.083 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.085 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.086 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.087 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.089 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.090 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.092 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.093 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.094 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.096 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.097 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.098 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.100 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.101 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.102 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.104 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.105 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.106 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.108 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.109 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.111 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.112 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.114 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.115 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.116 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.118 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.119 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.121 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.122 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.123 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.125 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.128 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.129 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.130 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.132 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.133 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.134 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.136 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.137 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.138 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.139 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.141 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.142 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.143 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.144 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.146 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.147 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.148 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.150 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.151 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.152 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.153 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.155 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.156 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.157 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.158 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.159 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.161 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.162 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.163 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.164 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.165 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.167 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.168 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.169 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.170 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.171 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.172 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.173 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.174 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.176 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.177 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.178 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.179 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.181 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.182 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.183 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.185 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.186 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.190 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.191 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.192 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.193 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.194 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.196 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.197 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.198 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.199 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.199 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.200 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.201 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.202 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.204 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.205 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.206 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.207 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.208 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.209 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.210 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.211 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.213 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.214 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.215 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.216 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.217 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.218 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.219 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.221 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.222 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.223 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.225 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.226 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.229 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.230 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.231 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.232 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.234 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.235 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.236 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.237 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.237 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.238 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.240 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.241 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.242 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.244 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.245 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.246 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.247 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.248 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.250 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.251 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.252 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.253 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.255 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.257 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.258 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.259 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.261 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.262 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.263 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.264 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.266 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.267 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.269 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.273 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.275 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.277 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.278 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.279 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.280 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.283 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.284 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.285 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.286 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.287 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.289 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.290 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.291 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.292 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.293 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.294 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.295 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.297 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.298 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.299 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.300 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.301 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.302 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.303 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.304 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.305 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.306 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.308 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.309 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.310 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.311 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.312 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.312 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.313 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.314 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.315 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.316 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.317 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.318 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.319 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.320 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.323 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.324 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.325 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.326 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.327 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.328 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.329 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.331 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.332 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.333 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.334 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.335 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.336 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.338 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.339 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.340 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.341 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.342 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.343 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.343 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.345 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.346 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.347 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.348 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.349 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.350 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.351 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.352 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.353 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.354 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.355 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.356 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.356 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.357 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.358 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.359 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.360 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.361 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.362 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.363 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.364 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.365 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.366 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.366 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.367 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.368 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.369 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.370 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.370 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.371 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.372 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.373 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.374 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.375 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.376 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.377 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.378 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.379 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.380 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.381 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.382 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.383 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.384 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.385 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.386 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.387 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.388 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.389 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.390 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.391 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.392 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.393 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.394 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.395 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.396 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.397 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.397 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.398 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.398 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.399 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.400 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.400 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.401 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.402 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.403 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.404 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.405 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.406 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.407 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.408 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.409 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.410 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.411 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.411 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.412 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.412 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.413 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.414 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.415 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.415 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.416 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.417 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.418 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.419 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.420 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.421 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.421 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.422 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.423 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.424 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.426 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.427 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.427 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.428 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.429 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.430 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.431 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.431 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.432 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.432 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.433 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.434 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.435 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.435 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.436 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.436 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.437 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.438 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.439 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.440 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.441 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.441 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.442 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.443 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.444 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.445 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.446 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.447 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.447 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.448 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.449 [Thread-0] HttpSender.run - news.admicro.vn
+21-08-2020 11:34:33.449 [Thread-0] HttpSender.run - news.admicro.vn
