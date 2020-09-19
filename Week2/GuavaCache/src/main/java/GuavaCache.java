@@ -18,11 +18,16 @@ public class GuavaCache {
             });
 
     private static String getRedisValue(String key) {
-        Jedis jedis = new Jedis("localhost");
-        jedis.auth("abc@123");
-        String value = jedis.hget("test", key);
-        jedis.close();
-        return value;
+        try {
+            Jedis jedis = new Jedis("localhost");
+            jedis.auth("abc@123");
+            String value = jedis.hget("test", key);
+            jedis.close();
+            return value;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return "";
     }
 
     public String getFromCache(String key) throws ExecutionException {

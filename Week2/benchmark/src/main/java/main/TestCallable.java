@@ -7,8 +7,6 @@ import okhttp3.Response;
 import java.io.IOException;
 import java.util.Random;
 import java.util.concurrent.Callable;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class TestCallable implements Callable<Report> {
     int connections;

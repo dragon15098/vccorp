@@ -1,0 +1,6 @@
+1	9.5	ABC	15 phut
+2	6	ABC	1 tiet
+3	3	ABCD	cuoi ky
+3	3	ABCD	1 tiet
+3	4	ABCD	1 tiet
+3	5	ABCD	1 tiet

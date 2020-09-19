@@ -16,7 +16,7 @@ import java.util.concurrent.Future;
 public class Test {
     static int connections = 40000;
     static int threadSize = 4;
-    static String url = "http://localhost:4567/prime";
+    static String url = "http://localhost:8080/prime";
     static ExecutorService executorService;
     static List<Callable<Report>> callables;
     static List<Report> reports = new ArrayList<>();
@@ -136,7 +136,7 @@ public class Test {
     private static boolean connectSuccess() {
         OkHttpClient okHttpClient = new OkHttpClient();
         Request request = new Request.Builder()
-                .url(url+"?n=1")
+                .url(url + "?n=1")
                 .build();
         try {
             okHttpClient.newCall(request).execute();
@@ -169,3 +169,35 @@ public class Test {
 //        max: 20.81ms
 //        P95: 0.31ms
 //        P99: 0.79ms
+
+// REDIS ONLY
+//        # OS: Linux; 5.4.0-42-generic; amd64
+//        # JVM: Ubuntu; 11.0.8
+//        # CPU: 4 "procs"
+//        # Date: 2020-08-31 10:22:47+0700
+//        Running test http://localhost:4567/prime
+//        4 threads and 40000 req
+//        complete: 40000
+//        fail: 0
+//        mean: 0.32ms
+//        +/- stdev: 0.2ms
+//        min: 0.13ms
+//        max: 23.06ms
+//        P95: 0.75ms
+//        P99: 2.19ms
+
+// REDIS + GUAVA
+//        # OS: Linux; 5.4.0-42-generic; amd64
+//        # JVM: Ubuntu; 11.0.8
+//        # CPU: 4 "procs"
+//        # Date: 2020-08-31 10:23:19+0700
+//        Running test http://localhost:8080/prime
+//        4 threads and 40000 connections
+//        complete: 40000
+//        fail: 0
+//        mean: 0.28ms
+//        +/- stdev: 0.09ms
+//        min: 0.13ms
+//        max: 28.13ms
+//        P95: 0.56ms
+//        P99: 1.7ms

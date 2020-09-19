@@ -1,2 +1,0 @@
-JMH S 16 main.MyBenchmark S 53 main.generated.MyBenchmark_testGuavaWithRedis_jmhTest S 18 testGuavaWithRedis S 11 AverageTime I 1 4 A 1 1 1 E I 1 1 T 3 1 s E I 3 100 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
-JMH S 16 main.MyBenchmark S 44 main.generated.MyBenchmark_testRedis_jmhTest S 9 testRedis S 11 AverageTime I 1 4 A 1 1 1 E I 1 1 T 3 1 s E I 3 100 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 

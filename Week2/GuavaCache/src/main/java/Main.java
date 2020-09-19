@@ -15,7 +15,8 @@ public class Main {
                     if (0 < n && n <= 10000) {
                         return "" + guavaCache.getFromCache(req.queryParams("n"));
                     }
-                } catch (Exception ignored) {
+                } catch (NumberFormatException numberFormatException) {
+                    return "numberFormatException";
                 }
             }
             return "Bad Request";

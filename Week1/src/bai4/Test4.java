@@ -13,25 +13,27 @@ public class Test4 {
     static Random random = new Random();
 
     public static void main(String[] args) throws IOException {
-        Point A = new Point(800, 800);
-        Point B = new Point(4000, 800);
-        Point C = new Point(2400, 2400);
+        Point A = new Point(8, 8);
+        Point B = new Point(16, 16);
+        Point C = new Point(24, 24);
 
-        int distanceToA = 400;
-        int distanceToB = 500;
-        int distanceToC = 600;
-        randomPoint(A, distanceToA, 8000);
-        randomPoint(B, distanceToB, 10000);
-        randomPoint(C, distanceToC, 12000);
+        int distanceToA = 4;
+        int distanceToB = 4;
+        int distanceToC = 4;
+        randomPoint(A, distanceToA, 8);
+        randomPoint(B, distanceToB, 10);
+        randomPoint(C, distanceToC, 12);
         Collections.shuffle(points);
         FileOutputStream fileOutputStream = new FileOutputStream("output4.txt");
-        fileOutputStream.write(points.toString().getBytes());
+        for (Point point : points) {
+            fileOutputStream.write((point.toString()+ "\n").getBytes());
+        }
         fileOutputStream.close();
         System.out.println("GEN point Success. Points size: " + points.size());
     }
 
     public static void randomPoint(Point srcPoint, int distanceMax, int numberPointNeed) {
-        for (int i = 0; i < numberPointNeed / 4; i++) {
+        for (int i = 0; i < numberPointNeed; i++) {
             int range = srcPoint.x - distanceMax;
             int x = random.nextInt(distanceMax) + range;
             Point tempPoint = new Point(x);
@@ -46,9 +48,9 @@ public class Test4 {
             }
             PointUtils pointUtils = new PointUtils(tempPoint, srcPoint);
             points.add(tempPoint);
-            points.add(pointUtils.getOppositionPointByX());
-            points.add(pointUtils.getOppositionPointByY());
-            points.add(pointUtils.getOppositionPointByXAndY());
+//            points.add(pointUtils.getOppositionPointByX());
+//            points.add(pointUtils.getOppositionPointByY());
+//            points.add(pointUtils.getOppositionPointByXAndY());
         }
     }
 }

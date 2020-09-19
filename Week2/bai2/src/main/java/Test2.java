@@ -27,7 +27,7 @@ public class Test2 {
                     getImageUrl(),
                     getContent(),
                     getReferenceNew());
-            File fileOutput = new File("/home/nmq/Desktop/Vcc/vccorp/Week2/bai2/data/" + now.toString() + ".txt");
+            File fileOutput = new File("/home/nmq/Desktop/vccorp/Week2/bai2/data/" + now.toString() + ".txt");
             fileOutput.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(fileOutput);
             objectMapper.writeValue(fileOutputStream, newObj);
@@ -35,7 +35,7 @@ public class Test2 {
         } catch (IOException e) {
             e.printStackTrace();
             try {
-                File fileOutput = new File("/home/nmq/Desktop/Vcc/vccorp/Week2/bai2/data/error.txt");
+                File fileOutput = new File("/home/nmq/Desktop/vccorp/Week2/bai2/data/data/error.txt");
                 fileOutput.createNewFile();
                 FileOutputStream fileOutputStream = new FileOutputStream(fileOutput);
                 fileOutputStream.write(("ERROR WITH: " + e.getMessage() + " " + now.toString()).getBytes());
